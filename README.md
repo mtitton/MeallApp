@@ -63,7 +63,7 @@ func testFetchFoodsLoadsCorrectData() {
 1. Clone este repositório:
 
 ```
-git clone https://github.com/seuusuario/meall-app.git
+git clone https://github.com/mtitton/MeallApp.git
 ```
 
 2. Abra o projeto no Xcode:
