@@ -84,7 +84,7 @@ open MeallApp.xcodeproj
 
 Marcus Titton
 
-GitHub: @marcustitton
+GitHub: @mtitton
 
 LinkedIn: linkedin.com/in/marcustitton
 
